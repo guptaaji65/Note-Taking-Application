@@ -1,1 +1,1 @@
-# Note-Taking-Application
+Note-taking is the process of capturing information from a source or event. This usually takes the form of recording, writing, jotting, paraphrasing, sketching, labelling, outlining, and annotating. Note-taking applications enable users to type, write, and draw on their devices just as they would on paper.
